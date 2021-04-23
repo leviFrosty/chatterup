@@ -12,10 +12,8 @@ Features:
 ## Sample Users
 
 Use below usernames to test application!
-**admin user**
 
-1. levi_wilkerson
-   **standard users**
+1. levi_wilkerson (admin)
 2. johnDoe
 3. carterCunningham
 4. eleanorharvey
