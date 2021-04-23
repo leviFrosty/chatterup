@@ -14,7 +14,10 @@ Features:
 _Use these users to test the application_
 
 All passwords are `123123`
+**admin user**
+1. levi_wilkerson
+2. johnDoe
+3. carterCunningham
+4. eleanorharvey
 
-1. Username: johnDoe
-2. Username: carterCunningham
-3. **Admin**: levi_wilkerson
+*will add logout feature to remove localstorage cache (logout). For now to logout go to page localstorage and del cache and refresh page*
