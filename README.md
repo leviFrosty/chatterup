@@ -11,13 +11,15 @@ Features:
 
 ## Sample Users
 
-_Use these users to test the application_
-
-All passwords are `123123`
+Use below usernames to test application!
 **admin user**
+
 1. levi_wilkerson
+   **standard users**
 2. johnDoe
 3. carterCunningham
 4. eleanorharvey
 
-*will add logout feature to remove localstorage cache (logout). For now to logout go to page localstorage and del cache and refresh page*
+**All passwords are `123123`**
+
+_will add logout feature to remove localstorage cache (logout). For now to logout go to page localstorage and del cache and refresh page_
