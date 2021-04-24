@@ -16,8 +16,8 @@ Use below usernames to test application!
 1. levi_wilkerson (admin)
 2. johnDoe
 3. carterCunningham
-4. eleanorharvey
+4. eleanorHarvey
 
 **All passwords are `123123`**
 
-_will add logout feature to remove localstorage cache (logout). For now to logout go to page localstorage and del cache and refresh page_
+_will add logout feature to remove localstorage cache (logout). For now to logout go to page localstorage and del cache. Then refresh page_
