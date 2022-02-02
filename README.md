@@ -20,4 +20,4 @@ Use below usernames to test application!
 
 **All passwords are `123123`**
 
-*sometimes the application may not load to the free api being bogged down*
+*sometimes the application may not load due to the free api being bogged down*
